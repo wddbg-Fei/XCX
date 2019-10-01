@@ -1,0 +1,12 @@
+<!--index.wxml-->
+<view class="container">
+  <view class="nei">
+    <view class="img">
+      <image src="{{img}}"></image>
+    </view>
+    <view class="sheng"></view>
+    <view class="ma"></view>
+  </view>
+  <view class="floor">
+  </view>
+</view>
